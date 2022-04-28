@@ -1,9 +1,11 @@
 # Order-book
+Project live at [https://ordrbook.netlify.app](https://ordrbook.netlify.app)  
 In the client directory, we  run:
-### `npm start`
-Runs the app on port 4000
-Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
+### `npm start`
+Runs the app on port 4000  
+Open [http://localhost:4000](http://localhost:4000) to view it in your browser.  
+  
 In the server directory, we run:
 ### `npm start`
 Runs the server on port 8000
